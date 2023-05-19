@@ -1,4 +1,4 @@
-# simple_TicTacToe
+# SIMPLE TIC TAC TOE
 # Tic Tac Toe
 
 This is a simple implementation of the Tic Tac Toe game in Python.
